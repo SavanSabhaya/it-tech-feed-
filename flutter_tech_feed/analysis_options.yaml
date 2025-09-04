@@ -1,0 +1,12 @@
+include: package:very_good_analysis/analysis_options.6.0.0.yaml
+
+analyzer:
+  exclude:
+    - build/**
+    - ios/**
+    - android/**
+    - web/**
+    - macos/**
+    - windows/**
+    - linux/**
+
